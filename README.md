@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Dominik.
+
+[dominikbanach25@gmail.com](mailto:dominikbanach25@gmail.com)
+
+[LinkedIn](www.linkedin.com/in/dominik-banach)
 
 <!--
 **DominikBanach/DominikBanach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
