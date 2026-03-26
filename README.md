@@ -8,10 +8,10 @@
   **Data Specialist @ Monaco Invest Sp. z o.o.**
 </div>
 
-While the industry chases generative AI, I focus on "human-scale" problems. I have recently co-authored a paper on Proactive Detection of Pedestrian Crossing Occlusions (submitted to ICCS 2026 - under review).
+While the industry chases generative AI, I focus on "human-scale" problems. I have recently co-authored a paper on Proactive Detection of Pedestrian Crossing Occlusions (accepted for ICCS 2026).
 
 - 🔭 **I’m currently working on:** Expanding my research on occlusion detection for *Engineering Applications of Artificial Intelligence (EAAI)*.
-- 🎓 **Learning:** Algorithms for Data Analysis and Data Mining, R & Python, computer vision and other data related topics.
+- 🎓 **Learning:** Algorithms for Data Analysis and Data Mining, Python, computer vision and other data related topics.
 - 🔬 **Interests:** Statistics (including Circular Statistics) for Quantified Self data.
 
 ---
