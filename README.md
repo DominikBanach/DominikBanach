@@ -12,22 +12,7 @@ While the industry chases generative AI, I focus on "human-scale" problems. I ha
 
 - 🔭 **I’m currently working on:** Expanding my research on occlusion detection for *Engineering Applications of Artificial Intelligence (EAAI)*.
 - 🎓 **Learning:** Algorithms for Data Analysis and Data Mining, Python, computer vision and other data related topics.
-- 🔬 **Interests:** Statistics (including Circular Statistics) for Quantified Self data.
-
----
-
-### 🛠 Tech Stack
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/YOLOv11-0052CC?style=for-the-badge&logo=ultralytics&logoColor=white" alt="YOLOv11" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
-</div>
+- 🔬 **Interests:** Quantified Self and Real-World data.
 
 ---
 
